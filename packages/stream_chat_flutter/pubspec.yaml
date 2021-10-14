@@ -14,7 +14,8 @@ dependencies:
   characters: ^1.1.0
   chewie: 
     git:
-      url:git@github.com:vmwsree/chewie.git
+      url: git@github.com:vmwsree/chewie.git
+      ref: patch-1
       
   collection: ^1.15.0
   diacritic: ^0.1.3
