@@ -15,7 +15,7 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ^1.3.0
-  rxdart: ^0.26.0
+  rxdart: ^0.27.0
   stream_chat:
     git:
       url: git@github.com:vmwsree/stream-chat-flutter.git
